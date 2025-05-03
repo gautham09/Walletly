@@ -1,0 +1,21 @@
+{
+  "name": "worker1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.1"
+  },
+  "dependencies": {
+    "@repo/redis": "*",
+    "axios": "^1.8.4"
+  }
+}

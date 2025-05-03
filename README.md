@@ -11,3 +11,5 @@ A modern wallet application built using **React**, **TypeScript**, and **Turbore
 - **Node.js / Express.js** — Backend API (optional: describe if applicable)
 - **Prisma** + **PostgreSQL** — Database ORM and storage (optional)
 
+## Low Level Design
+![Image](https://github.com/user-attachments/assets/3ebd97ac-461d-4c05-a241-38efddb985bf)
